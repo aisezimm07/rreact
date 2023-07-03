@@ -1,0 +1,110 @@
+.headerr{
+  display: flex;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  margin: 50px 200px;
+  font-weight: bolder;
+  
+ 
+}
+
+.ptext{
+  margin-left: 300px;
+  display: flex;
+  gap: 50px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 50px;
+}
+button{
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+  border: 0;
+  background-color: #fff;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.section1 span{
+  color: rgb(255, 128, 0);
+  background-color: #fff;
+  
+}
+.section1 h1{
+  font-size: 60px;
+  margin: 150px 200px 0 ;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+.text p{
+  margin: 20px 200px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.568);
+
+}
+.book{
+  width: 150px;
+  height: 50px;
+  background-color: black;
+  color: #fff;
+ margin-left: 200px;
+}
+.btn{
+  width: 150px;
+  height: 50px;
+  background-color: #fff;
+  color: black;
+}
+.cv{
+  display: flex;
+}
+h2{
+  display: flex;
+  justify-content: center;
+  font-family: 'Open Sans', sans-serif;
+   font-size: 18px;
+   margin-top: 300px;
+}
+.ser{
+  font-size: 23px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(255, 128, 0);
+  margin: 0 900px;
+  margin-top: 250px;
+}
+.des{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+h3{
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bolder;
+}
+.flex p{
+  color: rgba(0, 0, 0, 0.568);
+  font-family: 'Open Sans', sans-serif;
+}
+li{
+  font-weight: bold;
+  font-size: 18px;
+}
+.flex{
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+.one{
+display: flex;
+align-items: flex-end;
+}
+.image_1{
+position: absolute;
+margin: -300px 900px;
+}
+.image_2{
+  margin: 50px 450px;
+}
